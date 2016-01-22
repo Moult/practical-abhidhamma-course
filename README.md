@@ -1,7 +1,5 @@
 # practical-abhidhamma-course
 
-_Note: still in progress_
-
 This course is for [Theravāda](http://en.wikipedia.org/wiki/Theravada) Buddhists with inquiring minds who want an introduction to the Abhidhamma with minimal [Pāḷi](http://en.wikipedia.org/wiki/Pali). It includes eight talks (four shorter talks and four longer talks), an audio recording of each talk, handouts to accompany the talks and a document. The recordings, handouts and the document can be downloaded from [http://practicalabhidhamma.com/](http://practicalabhidhamma.com/).
 
 Some people may prefer to listen to the recordings with the handouts in front of them. When listening to the talks for the first time, you may have an impression of “information overload”, like trying to take a drink from a fire hose! :-) If so, you may want to listen to the talks a second time or read the document. Others may find they absorb more by reading the document with the handouts in front of them (the document includes a transcript of the talks). For those interested in a lot more information, the document includes footnotes. These footnotes are not merely an academic convention, they are my invitation to you to explore further. and links to online resources such as Suttas, stories from the Dhammapada Commentary and Wikipedia articles. At the end of every section, the document includes a Question & Answer portion. 
