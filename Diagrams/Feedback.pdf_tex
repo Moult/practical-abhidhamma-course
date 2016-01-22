@@ -1,0 +1,72 @@
+%% Creator: Inkscape 0.91_64bit, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Feedback.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{314.14339081bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.3798744)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Feedback.pdf}}%
+    \put(0.60095815,0.16401682){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{The Mind}}}%
+    \put(-0.31695884,0.41447667){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.40353937\unitlength}\centering \end{minipage}}}%
+    \put(0.8196533,0.23552421){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{}}}%
+    \put(0.75047336,0.13081836){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{}}}%
+    \put(0.83845186,0.1677235){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Speech}}}%
+    \put(0.81954139,0.19934782){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{}}}%
+    \put(0.83945907,0.21025344){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Action}}}%
+    \put(0.83890883,0.12140707){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Thought}}}%
+    \put(0.33043167,0.23548714){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Sound}}}%
+    \put(0.33105651,0.10022176){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Tangible object}}}%
+    \put(0.33162539,0.14334872){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Taste}}}%
+    \put(0.33089797,0.18912408){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Odour}}}%
+    \put(0.33161606,0.28185005){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Visible-form}}}%
+    \put(0.33138292,0.05383088){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Mental phenomena}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{./Diagrams/Feedback.pdf}}%
+    \put(0.40169292,0.39035213){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39981742\unitlength}\centering Accumulations\\ (positive/negative)\end{minipage}}}%
+    \put(0.33161606,0.32821295){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{\tableheader{Six doors}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{./Diagrams/Feedback.pdf}}%
+  \end{picture}%
+\endgroup%

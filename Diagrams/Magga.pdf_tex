@@ -1,0 +1,59 @@
+%% Creator: Inkscape 0.91_64bit, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Magga.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{340.15748031bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.25597598)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Magga.pdf}}%
+    \put(0.00560176,0.11751356){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.21381562\unitlength}\centering \end{minipage}}}%
+    \put(0.16175925,0.13327257){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.67699736\unitlength}\centering \textit{Nibbāna}\end{minipage}}}%
+    \put(0.06939028,0.12991067){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32785062\unitlength}\centering The mind of an\\ uninstructed worldling (that's us! \smiley)\end{minipage}}}%
+    \put(0.60216382,0.13327045){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32785062\unitlength}\centering The purified mind\\ of a Sotāpanna\end{minipage}}}%
+    \put(0.49966413,0.21092932){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{82}}}}%
+  \end{picture}%
+\endgroup%

@@ -5,7 +5,10 @@
 \newcolumntype{L}[1]{>{\raggedright\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{C}[1]{>{\centering\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+\newcolumntype{P}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{\dimexpr#1-2mm}@{\hspace{2mm}}}
 \newcommand{\tableheader}[1]{{\sectionfont \textbf{#1}}}
 \newcommand{\tablesubheader}[1]{{\sectionfont #1}}
 \newcommand{\tablevsubheader}[1]{\hspace{2.5mm}\rotatebox[origin=l]{90}{\tablesubheader{#1}\hspace{1mm}}}
 \newcommand{\tablevsubheaderhack}[1]{\hspace{2mm}\rotatebox[origin=l]{90}{\tablesubheader{#1}\hspace{1mm}}}
+\newcommand{\tablevsubheaderhacksmall}[1]{\hspace{1.5mm}\rotatebox[origin=l]{90}{\tablesubheader{#1}\hspace{1mm}}}
+\newcommand{\tabledefinition}[1]{\hspace{-2mm}{#1}\hspace{2mm}}

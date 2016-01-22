@@ -1,0 +1,67 @@
+%% Creator: Inkscape 0.91_64bit, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Timeline.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{389.64677946bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.68997718)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Timeline.pdf}}%
+    \put(0.09892022,0.00046617){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{500 BCE}}}%
+    \put(0.25938155,0.00046617){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{0 CE}}}%
+    \put(0.41948199,0.00046617){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{500 CE}}}%
+    \put(0.57869519,0.00046617){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{1000 CE}}}%
+    \put(0.73897614,0.00046617){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{1500 CE}}}%
+    \put(0.62855481,0.69842621){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54554906\unitlength}\raggedright \vspace{1mm}Buddha \& 1\textsuperscript{st} council\\ About 2500 years ago\end{minipage}}}%
+    \put(0.62855481,0.59782227){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54554906\unitlength}\raggedright \vspace{1mm}Split of sangha \& 2\textsuperscript{nd} council\\ About 2400 years ago\end{minipage}}}%
+    \put(0.62855481,0.49721834){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54554906\unitlength}\raggedright \vspace{1mm}King Aśoka \& 3\textsuperscript{rd} council\\ About 2250 years ago\end{minipage}}}%
+    \put(0.62855481,0.39661428){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54554906\unitlength}\raggedright \vspace{1mm}4\textsuperscript{th} council\\ About 2000 years ago\end{minipage}}}%
+    \put(0.62855481,0.29601034){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54554906\unitlength}\raggedright \vspace{1.2mm}Buddhaghosa's Commentaries\\ About 1500 years ago\end{minipage}}}%
+    \put(0.62855481,0.1954064){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54554906\unitlength}\raggedright \vspace{1.2mm}Abhidhammattha Sangaha\\ About 1000 years ago\end{minipage}}}%
+    \put(0.3837953,0.88334296){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.06159425\unitlength}\raggedright \end{minipage}}}%
+    \put(0.89925702,0.00046617){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{2000 CE}}}%
+  \end{picture}%
+\endgroup%

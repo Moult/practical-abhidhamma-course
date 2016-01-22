@@ -1,0 +1,97 @@
+%% Creator: Inkscape 0.91_64bit, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Death.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{430.86614173bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.54306698)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Death.pdf}}%
+    \put(0.03579434,0.29630905){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.02646538,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.08842588,0.29630905){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.14105741,0.29630905){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.19368907,0.29630905){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.24632061,0.29630905){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.07909692,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.13172846,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.18436011,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.23699165,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.15779279,0.52372911){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tableheader{Old Existence}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{./Diagrams/Death.pdf}}%
+    \put(0.36293326,0.49751636){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.31509665\unitlength}\centering \end{minipage}}}%
+    \put(0.29895226,0.29622746){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Life-continuum}}}}%
+    \put(0.3515838,0.29622746){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Life-continuum}}}}%
+    \put(0.40421537,0.29622746){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Life-continuum}}}}%
+    \put(0.56211016,0.29622746){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Life-continuum}}}}%
+    \put(0.61192669,0.29630905){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Determining}}}}%
+    \put(0.66737324,0.29630905){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.72000478,0.29630905){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.77263632,0.29630905){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.82526786,0.29630905){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.87789945,0.29630905){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.93053099,0.29630905){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.98316253,0.29630905){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.6577927,0.52372911){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tableheader{New Existence}}}}%
+    \put(0.2896233,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{L}}}%
+    \put(0.34213245,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{L}}}%
+    \put(0.39476402,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{L}}}%
+    \put(0.55265881,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{L}}}%
+    \put(0.60529035,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{D}}}%
+    \put(0.65804428,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.71067582,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.76330736,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.8159389,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.8685705,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.92120204,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.97383358,0.24658566){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(-0.1243708,0.19217106){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.51192566\unitlength}\centering Last thought of\\ Old Existence\\ (support rebirth\\ linking kamma)\end{minipage}}}%
+    \put(0.29895226,0.18470567){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[rb]{\smash{Death}}}}%
+    \put(0.29776177,0.19268731){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.35145153\unitlength}\centering $\times16$\\ Life-continuum\end{minipage}}}%
+    \put(0.57213463,0.19217106){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.43500416\unitlength}\centering First thought of\\ New Existence\\ (attachment to\\ New Existence)\end{minipage}}}%
+    \put(0.34876879,0.18503204){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[rb]{\smash{Rebirth-linking}}}}%
+  \end{picture}%
+\endgroup%
