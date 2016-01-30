@@ -51,9 +51,9 @@
   \begin{picture}(1,0.69536075)%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Aversion.pdf}}%
     \put(-0.17951611,0.22795883){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.36821336\unitlength}\centering \end{minipage}}}%
-    \put(-0.16880576,0.71202523){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.76097427\unitlength}\centering Unwholesome\\ Thought Moment\\ with Aversion\end{minipage}}}%
-    \put(0.40587022,0.71202523){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.76097427\unitlength}\centering Wholesome\\ Thought Moment\\ with Mindfulness\end{minipage}}}%
+    \put(-0.16880576,0.71202523){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.76097427\unitlength}\centering Unwholesome\\ Mind Moment\\ with Aversion\end{minipage}}}%
+    \put(0.40587022,0.71202523){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.76097427\unitlength}\centering Wholesome\\ Mind Moment\\ with Mindfulness\end{minipage}}}%
     \put(-0.07848533,0.23026396){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.58003794\unitlength}\centering Object\\ (idea)\end{minipage}}}%
-    \put(0.29504141,0.14789853){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.76097427\unitlength}\centering Object\\ (recent Thought Moment)\end{minipage}}}%
+    \put(0.29504141,0.14789853){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.76097427\unitlength}\centering Object\\ (recent Mind Moment)\end{minipage}}}%
   \end{picture}%
 \endgroup%

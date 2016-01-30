@@ -51,7 +51,7 @@
   \begin{picture}(1,0.19555106)%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Life_Cont.pdf}}%
     \put(0.00525158,0.06574259){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.20045207\unitlength}\centering \end{minipage}}}%
-    \put(0.18247973,0.08051666){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.6346848\unitlength}\centering Many Life-continuum\\ Thought Moments\end{minipage}}}%
+    \put(0.18247973,0.08051666){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.6346848\unitlength}\centering Many Life-continuum\\ Mind Moments\end{minipage}}}%
     \put(-0.03164538,0.08051467){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.30735985\unitlength}\centering Sensing/Thinking\\ Process\end{minipage}}}%
     \put(0.72058482,0.08051467){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.30735985\unitlength}\centering Sensing/Thinking\\ Process\end{minipage}}}%
   \end{picture}%

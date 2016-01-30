@@ -51,7 +51,7 @@
   \begin{picture}(1,0.80032014)%
     \put(0.24912011,0.77534076){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tableheader{What Libet expected to find}}}}%
     \put(0.76271931,0.77534076){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tableheader{What Libet actually found}}}}%
-    \put(0.3671984,0.13255571){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.7922367\unitlength}\centering Awareness of intention comes\\ after something else has\\ triggered neural activity.\end{minipage}}}%
+    \put(0.3671984,0.13255571){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.7922367\unitlength}\centering \tablesubheader{Awareness of intention comes\\ after something else has\\ triggered neural activity.}\end{minipage}}}%
     \put(0.24806613,0.576724){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Awareness of intention}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Libet.pdf}}%
     \put(0.24806613,0.4568044){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Neural activity}}}%
@@ -67,6 +67,6 @@
     \put(0.24806613,0.6966436){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{...}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=7]{./Diagrams/Libet.pdf}}%
     \put(0.76262269,0.6966436){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{...}}}%
-    \put(0.01527218,0.13255454){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.46637782\unitlength}\centering Intention is a cause\\ of neural activity.\end{minipage}}}%
+    \put(0.01527218,0.13255454){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.46637782\unitlength}\centering \tablesubheader{Intention is a cause\\ of neural activity.}\end{minipage}}}%
   \end{picture}%
 \endgroup%
