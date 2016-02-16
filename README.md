@@ -8,6 +8,12 @@ The talks will cover selected topics from the Abhidhamma that are most practical
 
 The Dhamma (and the Abhidhamma) is _not_ meant for abstract theorizing; the Dhamma (and the Abhidhamma) is meant for practical application. I hope you approach this course not only to learn new facts, but also to consider how you can improve yourself spiritually.
 
+# LaTeX
+
+This document is written in LaTeX. You can compile it with `lualatex` by doing:
+
+`lualatex -synctex=1 -interaction=nonstopmode Master.tex`
+
 ## License
 
 This is under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). For more details please view the `LICENSE.md` file.
