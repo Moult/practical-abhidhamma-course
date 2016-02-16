@@ -1,0 +1,73 @@
+%% Creator: Inkscape 0.91_64bit, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Eye.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{424.65666043bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.55430554)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Eye.pdf}}%
+    \put(0.66310027,0.53469871){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tableheader{Eye-consciousness Mind Moment}}}}%
+    \put(0.4039435,0.46199745){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Consciousness}}}%
+    \put(0.4039435,0.41765492){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{\textbf{Contact}}}}%
+    \put(0.4039435,0.37778644){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{\textbf{Feeling}}}}%
+    \put(0.4039435,0.33299209){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{\textbf{Perception}}}}%
+    \put(0.4039435,0.28738367){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{\textbf{One-pointedness}}}}%
+    \put(0.4039435,0.24267212){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{\textbf{Attention}}}}%
+    \put(0.62819308,0.41765492){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Makes connection to object}}}%
+    \put(0.62768255,0.37778644){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Experiences “flavour" of object}}}%
+    \put(0.62703405,0.33299209){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{“Marks" the object}}}%
+    \put(0.62791712,0.28738367){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Focuses on object}}}%
+    \put(0.62776534,0.24267212){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Directs the focus}}}%
+    \put(0.36676109,0.21578576){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{\textbf{Volition} (coordinates)}}}}%
+    \put(0.66068377,0.15765462){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{Life faculty}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{./Diagrams/Eye.pdf}}%
+    \put(0.66068377,0.12159185){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Supports consciousness and Mental Factors}}}%
+    \put(0.13499187,0.04407594){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{Visible-form}}}}%
+    \put(0.13447444,0.0060159){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Object of Mind Moment}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{./Diagrams/Eye.pdf}}%
+  \end{picture}%
+\endgroup%

@@ -1,0 +1,116 @@
+%% Creator: Inkscape 0.91_64bit, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Sati.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{281.59202516bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.64940658)%
+    \put(0.26259641,1.51917608){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{definition}}}%
+    \put(0.26259641,1.41850805){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{refrain}}}%
+    \put(0.34892151,1.46423198){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{breathing}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Sati.pdf}}%
+    \put(0.34892151,1.36356807){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{postures}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{./Diagrams/Sati.pdf}}%
+    \put(0.26259641,1.317843){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{refrain}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{./Diagrams/Sati.pdf}}%
+    \put(0.26259641,1.21717804){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{refrain}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{./Diagrams/Sati.pdf}}%
+    \put(0.34892151,1.16223811){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{parts of the body}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{./Diagrams/Sati.pdf}}%
+    \put(0.26259641,1.116513){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{refrain}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{./Diagrams/Sati.pdf}}%
+    \put(0.34892151,1.26289903){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{activities}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{./Diagrams/Sati.pdf}}%
+    \put(0.34892151,1.06157311){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{elements}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{./Diagrams/Sati.pdf}}%
+    \put(0.26259641,1.01584808){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{refrain}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{./Diagrams/Sati.pdf}}%
+    \put(0.26259641,0.91518308){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{9x refrain}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{./Diagrams/Sati.pdf}}%
+    \put(0.34892151,0.86024319){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{feelings}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=11]{./Diagrams/Sati.pdf}}%
+    \put(0.26259641,0.81451808){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{refrain}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=12]{./Diagrams/Sati.pdf}}%
+    \put(0.34892151,0.96090412){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{9x corpse in decay}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=13]{./Diagrams/Sati.pdf}}%
+    \put(0.34892151,0.7595781){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{consciousness}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=14]{./Diagrams/Sati.pdf}}%
+    \put(0.26259641,0.71385308){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{refrain}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=15]{./Diagrams/Sati.pdf}}%
+    \put(0.26259641,0.61318808){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{refrain}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=16]{./Diagrams/Sati.pdf}}%
+    \put(0.34892151,0.55824819){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{aggregates}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=17]{./Diagrams/Sati.pdf}}%
+    \put(0.26259641,0.51252308){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{refrain}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=18]{./Diagrams/Sati.pdf}}%
+    \put(0.34892151,0.65890911){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{hindrances}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=19]{./Diagrams/Sati.pdf}}%
+    \put(0.34892151,0.45758319){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{sense bases}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=20]{./Diagrams/Sati.pdf}}%
+    \put(0.26259641,0.31119316){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{refrain}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=21]{./Diagrams/Sati.pdf}}%
+    \put(0.34892151,0.25625319){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{noble truths}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=22]{./Diagrams/Sati.pdf}}%
+    \put(0.26259641,0.21052808){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{refrain}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=23]{./Diagrams/Sati.pdf}}%
+    \put(0.34892151,0.35691411){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{awakening factors}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=24]{./Diagrams/Sati.pdf}}%
+    \put(0.26259641,0.41185808){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{refrain}}}%
+    \put(0.26259641,1.61983826){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{\textit{ekayana magga}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=25]{./Diagrams/Sati.pdf}}%
+    \put(0.26259641,0.10986316){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{prediction}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=26]{./Diagrams/Sati.pdf}}%
+    \put(0.26259641,0.00919721){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{\textit{ekayana magga}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=27]{./Diagrams/Sati.pdf}}%
+    \put(0.72583344,1.21000649){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Body}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=28]{./Diagrams/Sati.pdf}}%
+    \put(0.72583344,0.86046168){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Feelings}}}%
+    \put(0.72583344,0.76329235){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Mind}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=29]{./Diagrams/Sati.pdf}}%
+    \put(0.72583344,0.52911508){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.6858961\unitlength}\raggedright Dhammas\\ (mental objects)\end{minipage}}}%
+  \end{picture}%
+\endgroup%

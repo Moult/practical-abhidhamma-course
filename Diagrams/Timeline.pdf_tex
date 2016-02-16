@@ -36,7 +36,7 @@
   }%
   \providecommand\rotatebox[2]{#2}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{389.64677946bp}%
+    \setlength{\unitlength}{389.84600398bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -48,20 +48,20 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.68997718)%
+  \begin{picture}(1,0.62377727)%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Timeline.pdf}}%
-    \put(0.09892022,0.00046617){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{500 BCE}}}%
-    \put(0.25938155,0.00046617){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{0 CE}}}%
-    \put(0.41948199,0.00046617){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{500 CE}}}%
-    \put(0.57869519,0.00046617){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{1000 CE}}}%
-    \put(0.73897614,0.00046617){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{1500 CE}}}%
-    \put(0.62855481,0.69842621){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54554906\unitlength}\raggedright \vspace{1mm}Buddha \& 1\textsuperscript{st} council\\ About 2500 years ago\end{minipage}}}%
-    \put(0.62855481,0.59782227){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54554906\unitlength}\raggedright \vspace{1mm}Split of sangha \& 2\textsuperscript{nd} council\\ About 2400 years ago\end{minipage}}}%
-    \put(0.62855481,0.49721834){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54554906\unitlength}\raggedright \vspace{1mm}King Aśoka \& 3\textsuperscript{rd} council\\ About 2250 years ago\end{minipage}}}%
-    \put(0.62855481,0.39661428){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54554906\unitlength}\raggedright \vspace{1mm}4\textsuperscript{th} council\\ About 2000 years ago\end{minipage}}}%
-    \put(0.62855481,0.29601034){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54554906\unitlength}\raggedright \vspace{1.2mm}Buddhaghosa's Commentaries\\ About 1500 years ago\end{minipage}}}%
-    \put(0.62855481,0.1954064){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54554906\unitlength}\raggedright \vspace{1.2mm}Abhidhammattha Sangaha\\ About 1000 years ago\end{minipage}}}%
-    \put(0.3837953,0.88334296){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.06159425\unitlength}\raggedright \end{minipage}}}%
-    \put(0.89925702,0.00046617){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{2000 CE}}}%
+    \put(0.09886968,0.00030059){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{500 BCE}}}%
+    \put(0.25924901,0.00030059){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{0 CE}}}%
+    \put(0.41926762,0.00030059){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{500 CE}}}%
+    \put(0.57839947,0.00030059){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{1000 CE}}}%
+    \put(0.73859851,0.00030059){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{1500 CE}}}%
+    \put(0.6282336,0.632237){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54527027\unitlength}\raggedright \vspace{1mm} Buddha \& 1\textsuperscript{st} council\\ About 2500 years ago\end{minipage}}}%
+    \put(0.6282336,0.53989284){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54527027\unitlength}\raggedright \vspace{0.5mm} Split of sangha \& 2\textsuperscript{nd} council\\ About 2400 years ago\end{minipage}}}%
+    \put(0.6282336,0.44754869){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54527027\unitlength}\raggedright \vspace{0.7mm} King Aśoka \& 3\textsuperscript{rd} council\\ About 2250 years ago\end{minipage}}}%
+    \put(0.6282336,0.35520441){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54527027\unitlength}\raggedright \vspace{1mm}4\textsuperscript{th} council\\ About 2000 years ago\end{minipage}}}%
+    \put(0.6282336,0.26286025){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54527027\unitlength}\raggedright \vspace{1.5mm} Buddhaghosa's Commentaries\\ About 1500 years ago\end{minipage}}}%
+    \put(0.6282336,0.1705161){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54527027\unitlength}\raggedright \vspace{1.5mm} Abhidhammattha Sangaha\\ About 1000 years ago\end{minipage}}}%
+    \put(0.38359918,0.88272621){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.06156277\unitlength}\raggedright \end{minipage}}}%
+    \put(0.89879748,0.00030059){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{2000 CE}}}%
   \end{picture}%
 \endgroup%

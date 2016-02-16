@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="83.894196mm"
-   height="30.142899mm"
-   viewBox="0 0 297.26289 106.80554"
+   width="83.102516mm"
+   height="30.142902mm"
+   viewBox="0 0 294.45773 106.80555"
    id="svg5816"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -104,9 +104,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="146.37696"
-     inkscape:cy="113.76527"
+     inkscape:zoom="1.979899"
+     inkscape:cx="73.514359"
+     inkscape:cy="72.105436"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -126,14 +126,15 @@
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-bbox-midpoints="true"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:snap-global="false" />
   <metadata
      id="metadata5821">
     <rdf:RDF>
@@ -150,7 +151,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-178.98662,-81.873532)">
+     transform="translate(-178.92802,-81.873532)">
     <g
        transform="matrix(1.25,0,0,-1.25,86.008037,181.38607)"
        id="g4146">
@@ -168,13 +169,13 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="322.02258"
-       y="116.76798"
+       y="105.54308"
        id="text6408"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan6410"
          x="322.02258"
-         y="116.76798">Decision</tspan></text>
+         y="105.54308">Decision</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text6422"
@@ -197,12 +198,12 @@
        id="text28147"
        y="116.76798"
        x="420.61475"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.99999809px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         y="116.76798"
+         sodipodi:role="line"
+         id="tspan4193"
          x="420.61475"
-         id="tspan28149"
-         sodipodi:role="line">Beautiful</tspan></text>
+         y="116.76798">Faultless</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -260,5 +261,16 @@
          x="221.97246"
          id="tspan29163"
          sodipodi:role="line">Ignore</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4890"
+       y="128.41769"
+       x="322.02258"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         y="128.41769"
+         x="322.02258"
+         id="tspan4892"
+         sodipodi:role="line">Mind Moment 29</tspan></text>
   </g>
 </svg>

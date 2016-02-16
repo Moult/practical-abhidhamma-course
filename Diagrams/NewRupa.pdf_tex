@@ -1,0 +1,92 @@
+%% Creator: Inkscape 0.91_64bit, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'NewRupa.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{311.41062819bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.68167312)%
+    \put(0.76121938,1.9140446){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.43596602\unitlength}\centering \end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/NewRupa.pdf}}%
+    \put(0.47451295,1.65493617){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Old Existence}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{./Diagrams/NewRupa.pdf}}%
+    \put(0.52230705,1.65615918){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{New Existence}}}%
+    \put(0.46280871,1.56685822){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{L}}}%
+    \put(0.53546008,1.56685822){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{L}}}%
+    \put(0.60828084,1.56685822){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{L}}}%
+    \put(0.4757162,1.52234467){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[rb]{\smash{Death}}}}%
+    \put(0.54464209,1.52279625){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[rb]{\smash{\tableheader{Rebirth-linking}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{./Diagrams/NewRupa.pdf}}%
+    \put(0.68110163,1.56686236){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{L}}}%
+    \put(0.62162109,1.52279625){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[rb]{\smash{\tableheader{2\textsuperscript{nd} Mind Moment}}}}}%
+    \put(0.69444188,1.52279625){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[rb]{\smash{\tableheader{3\textsuperscript{rd} Mind Moment}}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{./Diagrams/NewRupa.pdf}}%
+    \put(0.49859815,0.76946414){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tableheader{2\textsuperscript{nd} Mind Moment}}}}%
+    \put(0.15507806,0.58575116){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tablesubheader{Arising}}}}%
+    \put(0.49915306,0.58575116){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tablesubheader{Presence}}}}%
+    \put(0.93185928,0.58575116){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{\tablesubheader{Dissolution}}}}%
+    \put(-0.11045216,0.56389851){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.53030569\unitlength}\centering 12 kamma-born\\ 1 mind-born\\ 9 temperature-born\end{minipage}}}%
+    \put(0.23322781,0.56389851){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.53030569\unitlength}\centering 15 kamma-born\\ 1 mind-born\\ 13 temperature-born\end{minipage}}}%
+    \put(0.57734068,0.56389851){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.53030569\unitlength}\centering 18 kamma-born\\ 1 mind-born\\ 16 temperature-born\end{minipage}}}%
+    \put(0.4996236,0.70219323){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{L}}}%
+    \put(0.49859815,1.16735755){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tableheader{Rebirth-linking}}}}%
+    \put(0.15507806,0.98364457){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tablesubheader{Arising}}}}%
+    \put(0.49915306,0.98364457){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tablesubheader{Presence}}}}%
+    \put(0.93185928,0.98364457){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{\tablesubheader{Dissolution}}}}%
+    \put(-0.11045216,0.96179193){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.53030569\unitlength}\centering 3 kamma-born\end{minipage}}}%
+    \put(0.23322781,0.96179193){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.53030569\unitlength}\centering 6 kamma-born\\ 3 temperature-born\end{minipage}}}%
+    \put(0.57734068,0.96179193){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.53030569\unitlength}\centering 9 kamma-born\\ 6 temperature-born\end{minipage}}}%
+    \put(0.4996236,1.10008664){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{L}}}%
+    \put(0.49859815,0.34743025){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tableheader{3\textsuperscript{rd} Mind Moment}}}}%
+    \put(0.15507806,0.16371735){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tablesubheader{Arising}}}}%
+    \put(0.49915306,0.16371735){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tablesubheader{Presence}}}}%
+    \put(0.93185928,0.16371735){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{\tablesubheader{Dissolution}}}}%
+    \put(-0.11045216,0.14186469){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.53030569\unitlength}\centering 21 kamma-born\\ 2 mind-born\\ 19 temperature-born\end{minipage}}}%
+    \put(0.23322781,0.14186469){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.53030569\unitlength}\centering 24 kamma-born\\ 2 mind-born\\ 23 temperature-born\end{minipage}}}%
+    \put(0.57734068,0.14186469){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.53030569\unitlength}\centering 27 kamma-born\\ 2 mind-born\\ 26 temperature born\end{minipage}}}%
+    \put(0.4996236,0.28015934){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{L}}}%
+  \end{picture}%
+\endgroup%

@@ -1,0 +1,64 @@
+%% Creator: Inkscape 0.91_64bit, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Schools.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{425.2838327bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.40741775)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Schools.pdf}}%
+    \put(0.24743674,0.00027558){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{2\textsuperscript{nd} council}}}%
+    \put(-0.09647416,0.3390416){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.49983421\unitlength}\centering Unified sangha\\ for about\\ 100 years\end{minipage}}}%
+    \put(0.26364902,0.99867031){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.05643289\unitlength}\raggedright \end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{./Diagrams/Schools.pdf}}%
+    \put(0.56562758,0.00027558){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{3\textsuperscript{rd} council}}}%
+    \put(0.11810355,0.16137852){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.49983421\unitlength}\centering Sthaviras\\ (Elders)\end{minipage}}}%
+    \put(0.69916685,0.41331726){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.42287631\unitlength}\raggedright \vspace{2mm} Today's Mahayana and\\ Vajrayana schools evolved\\ from this group, most of\\ this group no longer exist\end{minipage}}}%
+    \put(0.69916685,0.21335397){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54163844\unitlength}\raggedright \vspace{2mm} Today's Theravada school\\ evolved from one of this\\ group, the remaining\\ schools no longer exist\end{minipage}}}%
+    \put(0.118324,0.39300253){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.49983421\unitlength}\centering Mahasamghika\\ (the majority)\end{minipage}}}%
+    \put(0.05907824,0.00027558){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{1\textsuperscript{st} council}}}%
+  \end{picture}%
+\endgroup%

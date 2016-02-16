@@ -50,7 +50,7 @@
   \makeatother%
   \begin{picture}(1,0.47578044)%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Tipitaka.pdf}}%
-    \put(0.49954842,0.43583131){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tableheader{Tipiṭaka}}}}%
+    \put(0.49954842,0.43583131){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tableheader{\textit{Tipiṭaka}}}}}%
     \put(0.50006471,0.37437392){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tablesubheader{Three Baskets}}}}%
     \put(0.49954842,0.21544472){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tableheader{Suttas}}}}%
     \put(0.866862,0.21544472){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tableheader{Abhidhamma}}}}%

@@ -1,0 +1,96 @@
+%% Creator: Inkscape 0.91_64bit, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Process.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{430.86609848bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.39883374)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Process.pdf}}%
+    \put(0.03579434,0.06700942){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Stream of Life-continuum}}}}%
+    \put(0.02646538,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{L}}}%
+    \put(0.08842588,0.06700942){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Past Life-continuum}}}}%
+    \put(0.14105743,0.06700942){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Vibrating Life-continuum}}}}%
+    \put(0.19368909,0.06700942){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Arresting Life-continuum}}}}%
+    \put(0.24632063,0.06700942){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Five-sense-door Adverting}}}}%
+    \put(0.07909693,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{L}}}%
+    \put(0.13172847,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{L}}}%
+    \put(0.18436013,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{L}}}%
+    \put(0.23699168,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{A}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{./Diagrams/Process.pdf}}%
+    \put(0.3629333,0.26821675){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.31509668\unitlength}\centering \end{minipage}}}%
+    \put(0.29895229,0.06692783){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Eye-consciousness}}}}%
+    \put(0.35158384,0.06692783){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Receiving}}}}%
+    \put(0.40421541,0.06692783){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Investigating}}}}%
+    \put(0.56211021,0.06692783){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.61192675,0.06700942){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.6673733,0.06700942){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.72000485,0.06700942){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.77263639,0.06700942){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.82526794,0.06700942){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.87789954,0.06700942){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Registration}}}}%
+    \put(0.93053109,0.06700942){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Registration}}}}%
+    \put(0.98316263,0.06700942){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Stream of Life-continuum}}}}%
+    \put(0.28962333,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{E}}}%
+    \put(0.34213249,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Rc}}}%
+    \put(0.39476406,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{I}}}%
+    \put(0.55265887,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.60529041,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.65804435,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.71067589,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.76330744,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.81593898,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+    \put(0.86857058,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Rg}}}%
+    \put(0.92120213,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Rg}}}%
+    \put(0.97383367,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{L}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{./Diagrams/Process.pdf}}%
+    \put(0.45358324,0.06692783){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Determining}}}}%
+    \put(0.50621478,0.06692783){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
+    \put(0.29085913,0.40648868){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41825342\unitlength}\centering Eye-door Process\\ (Visible-form exists)\end{minipage}}}%
+    \put(0.44734127,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{D}}}%
+    \put(0.49997281,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
+  \end{picture}%
+\endgroup%

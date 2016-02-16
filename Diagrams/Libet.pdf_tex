@@ -36,7 +36,7 @@
   }%
   \providecommand\rotatebox[2]{#2}%
   \ifx\svgwidth\undefined%
-    \setlength{\unitlength}{333.55677327bp}%
+    \setlength{\unitlength}{355.9982666bp}%
     \ifx\svgscale\undefined%
       \relax%
     \else%
@@ -48,25 +48,26 @@
   \global\let\svgwidth\undefined%
   \global\let\svgscale\undefined%
   \makeatother%
-  \begin{picture}(1,0.80032014)%
-    \put(0.24912011,0.77534076){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tableheader{What Libet expected to find}}}}%
-    \put(0.76271931,0.77534076){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tableheader{What Libet actually found}}}}%
-    \put(0.3671984,0.13255571){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.7922367\unitlength}\centering \tablesubheader{Awareness of intention comes\\ after something else has\\ triggered neural activity.}\end{minipage}}}%
-    \put(0.24806613,0.576724){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Awareness of intention}}}%
+  \begin{picture}(1,0.74986937)%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Libet.pdf}}%
-    \put(0.24806613,0.4568044){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Neural activity}}}%
+    \put(0.22661873,0.7261355){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tableheader{What Libet expected to find}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{./Diagrams/Libet.pdf}}%
-    \put(0.24806613,0.21696519){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Button is pushed}}}%
+    \put(0.22661873,0.65410094){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{...}}}%
+    \put(0.22661873,0.53673902){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Awareness of intention}}}%
+    \put(0.22661873,0.42516051){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Neural activity}}}%
+    \put(0.22615222,0.19471213){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Button is pushed}}}%
+    \put(-0.0458082,0.12561477){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54448084\unitlength}\centering Intention is a cause\\ of neural activity.\end{minipage}}}%
+    \put(0.16941677,0.30823612){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{0.5 seconds}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{./Diagrams/Libet.pdf}}%
-    \put(0.76262269,0.4568044){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Neural activity}}}%
+    \put(0.77375978,0.7261355){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\tableheader{What Libet actually found}}}}%
+    \put(0.77360342,0.65410094){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{...}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{./Diagrams/Libet.pdf}}%
-    \put(0.76262269,0.33688479){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Awareness of intention}}}%
+    \put(0.77366111,0.30629064){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Awareness of intention}}}%
+    \put(0.77366111,0.19471213){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Button is pushed}}}%
+    \put(0.77315088,0.42516051){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Neural activity}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=5]{./Diagrams/Libet.pdf}}%
-    \put(0.76262269,0.21696519){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Button is pushed}}}%
+    \put(0.50170068,0.10999297){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.54448082\unitlength}\centering \vspace{-2mm} Awareness of intention comes\\ after something else has\\ triggered neural activity.\end{minipage}}}%
+    \put(0.57174748,0.30823612){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{0.5 seconds}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=6]{./Diagrams/Libet.pdf}}%
-    \put(0.24806613,0.6966436){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{...}}}%
-    \put(0,0){\includegraphics[width=\unitlength,page=7]{./Diagrams/Libet.pdf}}%
-    \put(0.76262269,0.6966436){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{...}}}%
-    \put(0.01527218,0.13255454){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.46637782\unitlength}\centering \tablesubheader{Intention is a cause\\ of neural activity.}\end{minipage}}}%
   \end{picture}%
 \endgroup%

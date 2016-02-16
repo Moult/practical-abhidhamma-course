@@ -1,0 +1,38 @@
+\documentclass[a4 paper, 12pt]{article}
+\usepackage[margin=10mm]{geometry}
+\input{../Styles/all}
+
+\begin{document}
+\pagestyle{empty}
+
+\makeatletter
+\def\input@path{{../}}
+\makeatother
+
+\graphicspath{{../}}
+
+\section*{Handout 1. Introduction}
+
+\subsection*{Structure of the Buddhist canon}
+
+\begin{center}\input{./Diagrams/Tipitaka.pdf_tex}\end{center}
+
+\vspace{5mm}
+
+\subsection*{Topics in the Suttas and Abhidhamma}
+
+\setlength{\tabcolsep}{0pt}
+\renewcommand{\arraystretch}{1.1}
+\begin{tabular}{C{.04\textwidth}|C{.16\textwidth}C{.16\textwidth}C{.16\textwidth}|C{.16\textwidth}C{.16\textwidth}C{.16\textwidth}C{0\textwidth}}
+\toprule
+\multirow{3}{.04\textwidth}{\tablevsubheader{Suttas\hspace{7mm}}} & \multicolumn{3}{C{.48\textwidth}}{Deepening one's perspective on the world} & \multicolumn{3}{C{.48\textwidth}}{Dependent origination} & \newline \\
+& \multicolumn{3}{C{.48\textwidth}}{The way to a fortunate rebirth} & \multicolumn{3}{C{.48\textwidth}}{Four Noble Truths \& Noble Eightfold Path} & \newline \\
+& \multicolumn{3}{C{.48\textwidth}}{Happiness visible in this present life} & \multicolumn{3}{C{.48\textwidth}}{Teachings conducive to the holy\newline life and the attainment of \textit{Nibbāna}} & \newline \\
+\midrule
+\multirow{3}{.04\textwidth}{\tablevsubheader{Abhidhamma}} & \multicolumn{6}{C{.96\textwidth}}{Processes} & \newline \\
+& \multicolumn{6}{C{.96\textwidth}}{Conditions} & \newline \\
+& \multicolumn{2}{C{.32\textwidth}}{Consciousness (\textit{Citta})} & \multicolumn{2}{C{.32\textwidth}}{Mental Factors (\textit{Cetasika})} & \multicolumn{2}{C{.32\textwidth}}{Matter (\textit{Rūpa})} & \newline \\
+\bottomrule
+\end{tabular}
+
+\end{document}

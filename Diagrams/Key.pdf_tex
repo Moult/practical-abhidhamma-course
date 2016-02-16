@@ -1,0 +1,75 @@
+%% Creator: Inkscape 0.91_64bit, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'Key.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{425.33084899bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,1.47330828)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Key.pdf}}%
+    \put(0.1356697,1.34448369){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{ \textit{Dukkha}}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{./Diagrams/Key.pdf}}%
+    \put(0.75566254,0.31555171){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23807601\unitlength}\centering \textit{Manussa} needed faith to believe that there was a door and that the key could work. However, to get out of \textit{Saṃsāra}, effort is needed. Without effort, the key is useless!\end{minipage}}}%
+    \put(0.00568538,1.08650876){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23807601\unitlength}\centering \textit{Manussa} is unhappy.\end{minipage}}}%
+    \put(0.25560664,1.08650876){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23807601\unitlength}\centering He is unhappy because he is in jail. His crime? Craving. His sentence? Life imprisonment. The prison? \textit{Saṃsāra}.\end{minipage}}}%
+    \put(0.50587911,1.08621947){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23807601\unitlength}\centering He had just finished a life term. As soon as he was released, he was thrown back into the prison of \textit{Saṃsāra} for the same crime.\end{minipage}}}%
+    \put(0.75566254,1.08650876){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23807601\unitlength}\centering One day, the Buddha appeared.\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{./Diagrams/Key.pdf}}%
+    \put(0.75566254,1.46280974){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23807601\unitlength}\centering \vspace{2mm} I also used to be a prisoner in \textit{Saṃsāra}. I have escaped and can show you how.\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{./Diagrams/Key.pdf}}%
+    \put(0.00568538,0.31555171){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23807601\unitlength}\centering The Buddha gave \textit{Manussa} a key.\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{./Diagrams/Key.pdf}}%
+    \put(0.00580971,0.75444047){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23807601\unitlength}\centering \vspace{2mm} This key opens the door of the prison of \textit{Saṃsāra}. To use it, put the key in the keyhole, turn it, and open the door.\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{./Diagrams/Key.pdf}}%
+    \put(0.25570308,0.31555171){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23807601\unitlength}\centering The Buddha disappeared leaving the key behind. Unfortunately, \textit{Manussa} lacked wisdom (\textit{paññā}) and wasn't sure what to do with the key.\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{./Diagrams/Key.pdf}}%
+    \put(0.4275065,0.55633097){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{?}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{./Diagrams/Key.pdf}}%
+    \put(0.50586534,0.31555171){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23807601\unitlength}\centering \textit{Manussa} decided to put the key on the wall. He worshiped  the key, hoping that it would release him from \textit{Saṃsāra}.\end{minipage}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{./Diagrams/Key.pdf}}%
+    \put(0.50691921,0.62779568){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.23807601\unitlength}\centering \vspace{1mm} This key is\\ from the Buddha!\end{minipage}}}%
+  \end{picture}%
+\endgroup%

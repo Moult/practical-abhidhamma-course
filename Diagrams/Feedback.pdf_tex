@@ -50,7 +50,7 @@
   \makeatother%
   \begin{picture}(1,0.3798744)%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Feedback.pdf}}%
-    \put(0.60095815,0.16401682){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{The Mind}}}%
+    \put(0.60095815,0.16401682){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Mind}}}%
     \put(-0.31695884,0.41447667){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.40353937\unitlength}\centering \end{minipage}}}%
     \put(0.8196533,0.23552421){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{}}}%
     \put(0.75047336,0.13081836){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{}}}%
@@ -66,7 +66,7 @@
     \put(0.33138292,0.05383088){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{Mental phenomena}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=2]{./Diagrams/Feedback.pdf}}%
     \put(0.40169292,0.39035213){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.39981742\unitlength}\centering Accumulations\\ (positive/negative)\end{minipage}}}%
-    \put(0.33161606,0.32821295){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{\tableheader{Six doors}}}}%
+    \put(0.33161606,0.32821295){\color[rgb]{0,0,0}\makebox(0,0)[rb]{\smash{\tableheader{Six sense doors}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{./Diagrams/Feedback.pdf}}%
   \end{picture}%
 \endgroup%

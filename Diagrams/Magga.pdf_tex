@@ -51,8 +51,8 @@
   \begin{picture}(1,0.25597598)%
     \put(0,0){\includegraphics[width=\unitlength,page=1]{./Diagrams/Magga.pdf}}%
     \put(0.00560176,0.11751356){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.21381562\unitlength}\centering \end{minipage}}}%
-    \put(0.16175925,0.13327257){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.67699736\unitlength}\centering \textit{Nibbāna}\end{minipage}}}%
-    \put(0.06939028,0.12991067){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32785062\unitlength}\centering The mind of an\\ uninstructed worldling (that's us! \smiley)\end{minipage}}}%
+    \put(0.16175925,0.13327257){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.67699736\unitlength}\centering \vspace{1mm} \textit{Nibbāna}\end{minipage}}}%
+    \put(0.06939028,0.12991067){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32785062\unitlength}\centering The mind of an\\ uninstructed worldling (that's us!)\end{minipage}}}%
     \put(0.60216382,0.13327045){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.32785062\unitlength}\centering The purified mind\\ of a Sotāpanna\end{minipage}}}%
     \put(0.49966413,0.21092932){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{\textbf{82}}}}%
   \end{picture}%

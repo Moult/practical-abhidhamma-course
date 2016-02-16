@@ -56,7 +56,7 @@
     \put(0,0){\includegraphics[width=\unitlength,page=2]{./Diagrams/Latent.pdf}}%
     \put(0.16943983,0.33842108){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Distorted Thought}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=3]{./Diagrams/Latent.pdf}}%
-    \put(0.16943983,0.20086498){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Distorted View}}}%
+    \put(0.16943983,0.20086498){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Distorted/\textbf{Wrong view}}}}%
     \put(0,0){\includegraphics[width=\unitlength,page=4]{./Diagrams/Latent.pdf}}%
     \put(0.16943983,0.0633088){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Defilement Arises}}}%
     \put(0.20227786,0.40303877){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Latent Defilement}}}%

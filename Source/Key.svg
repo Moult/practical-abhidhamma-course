@@ -155,15 +155,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.2178365"
-     inkscape:cx="236.05271"
-     inkscape:cy="439.50055"
+     inkscape:cx="204.43927"
+     inkscape:cy="266.24248"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1366"
-     inkscape:window-height="715"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -1302,22 +1302,7 @@
            height="174.18761"
            width="126.57634"
            id="rect8275" /></flowRegion><flowPara
-         id="flowPara8277">Manussa decided to put the key on the wall. He worshiped  the key, hoping that it would release him from Samsara.</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-57.62413"
-       y="309.35254"
-       id="text8281"
-       sodipodi:linespacing="125%"><tspan
-         id="tspan8335"
-         sodipodi:role="line"
-         x="-57.62413"
-         y="309.35254">This key is</tspan><tspan
-         id="tspan8339"
-         sodipodi:role="line"
-         x="-57.62413"
-         y="328.10254">from the Buddha!</tspan></text>
-    <path
+         id="flowPara8277">Manussa decided to put the key on the wall. He worshiped  the key, hoping that it would release him from Samsara.</flowPara></flowRoot>    <path
        inkscape:connector-curvature="0"
        id="path8285"
        d="m -66.161915,278.50674 a 23.323305,23.415058 0 0 0 -19.340274,10.34692 30.214284,30.333147 0 0 0 -6.63369,-0.76527 30.214284,30.333147 0 0 0 -30.213601,30.33251 30.214284,30.333147 0 0 0 30.213601,30.33247 30.214284,30.333147 0 0 0 17.752758,-5.83121 19.082702,19.157773 0 0 0 13.70514,5.83121 19.082702,19.157773 0 0 0 16.990457,-10.48292 23.323306,23.415059 0 0 0 9.329892,1.9669 23.323306,23.415059 0 0 0 4.986301,-0.5693 19.082702,19.157773 0 0 0 16.218713,9.08517 19.082702,19.157773 0 0 0 19.081981,-19.15702 19.082702,19.157773 0 0 0 -17.831508,-19.09698 23.323306,23.415059 0 0 0 -22.455487,-17.09201 23.323306,23.415059 0 0 0 -9.405507,2.02384 23.323305,23.415058 0 0 0 -22.398776,-16.92445 z"
@@ -1601,5 +1586,18 @@
        d="m -390.45514,203.52874 531.66356,0"
        id="path8465"
        inkscape:connector-curvature="0" />
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4420"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(-48.947119,296.50733)"><flowRegion
+         id="flowRegion4422"><rect
+           id="rect4424"
+           width="126.57634"
+           height="174.18761"
+           x="-71.997551"
+           y="2.3225002"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, '" /></flowRegion><flowPara
+         id="flowPara4426">This key is</flowPara><flowPara
+         id="flowPara4428">from the Buddha!</flowPara></flowRoot>  </g>
 </svg>
