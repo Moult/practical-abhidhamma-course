@@ -12,7 +12,11 @@ The Dhamma (and the Abhidhamma) is _not_ meant for abstract theorizing; the Dham
 
 This document is written in LaTeX. You can compile it with `lualatex` by doing:
 
-`lualatex -synctex=1 -interaction=nonstopmode Master.tex`
+`lualatex Master.tex`
+
+Note that the `Times New Roman` font provided by Windows is required to compile
+this, as it contains the complete character glyphs required by Pāḷi words.
+`corefonts` on Linux may be insufficient.
 
 ## License
 
