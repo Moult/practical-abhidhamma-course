@@ -89,7 +89,7 @@
     \put(0,0){\includegraphics[width=\unitlength,page=3]{./Diagrams/Process.pdf}}%
     \put(0.45358324,0.06692783){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Determining}}}}%
     \put(0.50621478,0.06692783){\color[rgb]{0,0,0}\rotatebox{90}{\makebox(0,0)[lb]{\smash{Reaction}}}}%
-    \put(0.29085913,0.40648868){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41825342\unitlength}\centering Eye-door Process\\ (Visible-form exists)\end{minipage}}}%
+    \put(0.29085913,0.40648868){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.41825342\unitlength}\centering Eye-door Process\\ (\textbf{Visible-form} exists)\end{minipage}}}%
     \put(0.44734127,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{D}}}%
     \put(0.49997281,0.01728602){\color[rgb]{0,0,0}\makebox(0,0)[b]{\smash{Re}}}%
   \end{picture}%
